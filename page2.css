@@ -1,0 +1,16 @@
+body{
+    background-color: sandybrown;
+}
+
+h1{
+    border: ridge;
+    color: springgreen;
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    border: ridge;
+    color: springgreen;
+    
+}
