@@ -1,0 +1,15 @@
+h1{
+    margin: auto;
+    width: 50%;
+    background:turquoise ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h2{
+    border-style: double;
+    border-color: skyblue;
+    width: 50%;
+    margin: auto;
+}
+
