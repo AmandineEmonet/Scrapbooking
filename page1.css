@@ -1,0 +1,28 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+    margin: auto;
+    width: 50%;
+    background:turquoise ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+
+}
+
+h2{
+    border-style: double;
+    border-color: skyblue;
+    width: 50%;
+    margin: auto;
+    background: sandybrown;
+    border-radius: 10px;
+}
+
+img{
+    border: ridge;
+    color: turquoise;
+    border-radius: 15px;
+
+}
